@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".backButton").click(function(){window.location="index"});setTimeout(function(){$("#success-message").slideUp(1e3)},1500);setTimeout(function(){$("#error-message").slideUp(1e3)},1500)})
